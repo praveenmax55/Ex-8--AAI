@@ -58,7 +58,8 @@ except Exception as e:
 
 ```
 ## Output:
-![378279548-579ff590-957b-42e9-b4fe-6a6027a1f54a](https://github.com/user-attachments/assets/4cfaabf0-7be1-40d6-a1dc-b989f54ab330)
+![AAI OUT2](https://github.com/user-attachments/assets/a7f1f21a-be5b-41d5-82c3-da110f220d39)
+
 
 
 ## Result:
